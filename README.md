@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own projects.<br>🌱 I’m currently learning GUI with python.<br>💬 Ask me about backend stuff.
+🔭 I’m currently working on my own org (lambdaops.co). 💬 Ask me about any backend stuff.
 
 
 # 💻 Tech Stack:
