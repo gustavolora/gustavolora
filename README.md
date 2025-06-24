@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own org (lambdaops.co). 💬 Ask me about any backend stuff.
+🔭 I’m currently working on my own org [LambdaOps.co](https://lambdaops.co/). 💬 Ask me about any backend stuff.
 
 
 # 💻 Tech Stack:
